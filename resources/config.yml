@@ -1,0 +1,3 @@
+block-id: 90 # Change It
+
+command: "say {username} is nice."
